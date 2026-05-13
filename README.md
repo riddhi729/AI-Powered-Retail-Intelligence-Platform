@@ -1,5 +1,6 @@
 # AI-Powered-Retail-Intelligence-Platform
 An end-to-end retail analytics platform that uses ML and computer vision to optimize demand forecasting, inventory, customer insights, and in-store operations.
+
 🌟 Core Architecture & Features
 🔹 1. Dataset Preparation (Enterprise-Level Data Simulation)
 Designed and generated an industry-standard synthetic dataset that mimics large-scale retail and supply chain operations of a big company.
@@ -62,6 +63,7 @@ Returns predictions in real-time
 This demonstrates model deployment, API-based inference, and production-level ML integration.
 
 🎯 Project Value
+
 This project showcases:
 
 End-to-end data engineering
